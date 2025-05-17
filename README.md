@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hello! I'm Nakul Verma<br><br>🎓 B.Tech Student in Artificial Intelligence & Machine Learning  <br>💻 Passionate about Python,Web Development, Automation, and AI  <br>🌍 Based in Greater Noida, India  <br><br>
+# 👋 Hello! I'm Nakul Verma
+<br><br>🎓 B.Tech Student in Artificial Intelligence & Machine Learning  <br>💻 Passionate about Python,Web Development, Automation, and AI  <br>🌍 Based in Greater Noida, India  <br><br>
 
 
 ## 🌐 Socials:
