@@ -1,5 +1,15 @@
 # 👋 Hello! I'm Nakul Verma
-<br><br>🎓 B.Tech Student in Artificial Intelligence & Machine Learning  <br>💻 Passionate about Python,Web Development, Automation, and AI  <br>🌍 Based in Greater Noida, India  <br><br>
+
+### 🎓 B.Tech in Artificial Intelligence & Machine Learning (Graduating 2027)
+**Full-Stack & AI/ML Developer** focused on building efficient, scalable, and automated applications. 
+
+---
+
+### 🚀 Quick Overview
+* 🛠️ **Core Stack:** Python (FastAPI/Django), JavaScript/TypeScript (React/Next.js), Node.js, and Cloud Infrastructure (AWS/GCP).
+* 🤖 **AI Background:** Hands-on experience building real-time RAG engines, deploying LLM agents, and developing computer vision pipelines.
+* 🏆 **Track Record:** 1st Place National Hackathon Winner & Certified Google Cloud Professional Cloud Developer.
+* 🌍 **Location:** Greater Noida, India (Available for remote / hybrid roles).<br><br>
 
 
 # 📊 GitHub Stats:
