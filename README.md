@@ -16,7 +16,7 @@
 
 | Repository Stats | GitHub Snake |
 | :-: | :-: |
-| [![](https://github-readme-stats-sigma-five.vercel.app/api?username=nakul-verma2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/nakul-verma2) | [![](https://raw.githubusercontent.com/nakul-verma2/nakul-verma2/output/github-contribution-grid-snake.svg)](https://github.com/nakul-verma2) |
+| [![](https://github-readme-stats-sigma-five.vercel.app/api?username=nakul-verma2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/nakul-verma2) | [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakul-verma2/nakul-verma2/output/github-contribution-grid-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nakul-verma2/nakul-verma2/output/github-contribution-grid-snake.svg"><img alt="github-snake" src="https://raw.githubusercontent.com/nakul-verma2/nakul-verma2/output/github-contribution-grid-snake.svg"></picture>](https://github.com/nakul-verma2) |
 
 | Most Used Languages | Activity Graph |
 | :-: | :-: |
