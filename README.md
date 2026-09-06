@@ -198,7 +198,6 @@ Sep 2024 – Oct 2024   Python Developer Intern @ CodSoft Solutions
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nakul-verma2/nakul-verma2/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-<sub>⚠️ This animates automatically once you add the workflow below to your profile repo — see setup notes.</sub>
 
 </div>
 
